@@ -1,1 +1,1 @@
-# prove-con-git
+Stiamo imparando Github + python
